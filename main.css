@@ -38,8 +38,8 @@ body{
     object-fit: contain;
     transition: 1s ease-in-out;
     background-color: rgb(44, 44, 44);
-    position: absolute;
     
+
 }
 
 .container::before {
